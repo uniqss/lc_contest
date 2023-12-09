@@ -1,0 +1,7 @@
+/.vs
+/Debug
+/OtherAlgorithms/Debug
+/x64
+*.exe
+a.out
+core.*
